@@ -1,0 +1,4668 @@
+fileFormatVersion: 2
+guid: 872f9b4e2c300ba44b592bdd2bb4de1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1779139258782773580
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_0
+  - first:
+      213: -6734292520410796245
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_1
+  - first:
+      213: -8934452206701884921
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_2
+  - first:
+      213: -4816342350754995543
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_3
+  - first:
+      213: -7036410260634641011
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_4
+  - first:
+      213: 1947150230501105216
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_5
+  - first:
+      213: -3124862050424712714
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_6
+  - first:
+      213: 3966752578194779138
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_7
+  - first:
+      213: -1315972129311450626
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_8
+  - first:
+      213: 6894159830228823688
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_9
+  - first:
+      213: -3222591636174179857
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_10
+  - first:
+      213: 6532314761165117417
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_11
+  - first:
+      213: 7946696407421617710
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_12
+  - first:
+      213: 6823008600399946370
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_13
+  - first:
+      213: 1292800471714063562
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_14
+  - first:
+      213: 4935189277427793696
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_15
+  - first:
+      213: -4023236928716025980
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_16
+  - first:
+      213: -330220697465609304
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_17
+  - first:
+      213: 8118216660207517901
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_18
+  - first:
+      213: 4254128689844928029
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_19
+  - first:
+      213: 2004412566319866107
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_20
+  - first:
+      213: -9063200638068055884
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_21
+  - first:
+      213: 4922855294897027379
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_22
+  - first:
+      213: 326765032194940160
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_23
+  - first:
+      213: 4365352861422866700
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_24
+  - first:
+      213: -6006739286377794911
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_25
+  - first:
+      213: 3749768775261908294
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_26
+  - first:
+      213: -6932571144604293271
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_27
+  - first:
+      213: 6121876951903092006
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_28
+  - first:
+      213: -9061415205758280080
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_29
+  - first:
+      213: -859020576302808469
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_30
+  - first:
+      213: -9043098353511646307
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_31
+  - first:
+      213: -7620700045669738417
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_32
+  - first:
+      213: -27283802680807732
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_33
+  - first:
+      213: 1043485428461786490
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_34
+  - first:
+      213: -212274175558328152
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_35
+  - first:
+      213: 5252593072856982501
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_36
+  - first:
+      213: 5780287096499341521
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_37
+  - first:
+      213: -5434199200988638228
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_38
+  - first:
+      213: -7346513197545845959
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_39
+  - first:
+      213: -9105983843141505096
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_40
+  - first:
+      213: 7600957256253322440
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_41
+  - first:
+      213: 3773563844603617920
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_42
+  - first:
+      213: 2466590078836623933
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_43
+  - first:
+      213: -5007813168738189022
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_44
+  - first:
+      213: 8426398779282287522
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_45
+  - first:
+      213: 8181611358690464850
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_46
+  - first:
+      213: 1719938723278219274
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_47
+  - first:
+      213: -5719132994064779381
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_48
+  - first:
+      213: 2643713792862607159
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_49
+  - first:
+      213: -4222840770992135018
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_50
+  - first:
+      213: -2992112101861378719
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_51
+  - first:
+      213: 8640635748874491758
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_52
+  - first:
+      213: 5308476464641632065
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_53
+  - first:
+      213: 781827006130275183
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_54
+  - first:
+      213: -5434923753952963116
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_55
+  - first:
+      213: 2146760137428833904
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_56
+  - first:
+      213: 187410042880886462
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_57
+  - first:
+      213: -3708448872621208192
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_58
+  - first:
+      213: 8772274465976894095
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_59
+  - first:
+      213: -7364453710599853391
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_60
+  - first:
+      213: 1015543980680500356
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_61
+  - first:
+      213: -1300328336611349931
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_62
+  - first:
+      213: -8727557106306678500
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_63
+  - first:
+      213: 5726258986346259735
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_64
+  - first:
+      213: 2502923821346480387
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_65
+  - first:
+      213: -7030941078867791119
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_66
+  - first:
+      213: -7515417129105667025
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_67
+  - first:
+      213: 9211822518571538236
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_68
+  - first:
+      213: 141768223596862541
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_69
+  - first:
+      213: 6967870141258435638
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_70
+  - first:
+      213: -2082397647289340282
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_71
+  - first:
+      213: 2462853138064065088
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_72
+  - first:
+      213: 1873058566488845396
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_73
+  - first:
+      213: 281584944021222809
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_74
+  - first:
+      213: 4620267992547567048
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_75
+  - first:
+      213: -9119744364749378902
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_76
+  - first:
+      213: -1151151187455931542
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_77
+  - first:
+      213: -6659748460070606315
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_78
+  - first:
+      213: 541455871402011721
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_79
+  - first:
+      213: 5970396908112237290
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_80
+  - first:
+      213: -7872321773484738844
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_81
+  - first:
+      213: -5271154071384402787
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_82
+  - first:
+      213: -9184010102784301134
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_83
+  - first:
+      213: 4855925419557804002
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_84
+  - first:
+      213: -4319225409220057275
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_85
+  - first:
+      213: 2728880163113006992
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_86
+  - first:
+      213: -2034448472825312496
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_87
+  - first:
+      213: -3128693425568785964
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_88
+  - first:
+      213: -8128789104127915147
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_89
+  - first:
+      213: -3230722346144275556
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_90
+  - first:
+      213: -2020520812420800190
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_91
+  - first:
+      213: -749954573050909759
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_92
+  - first:
+      213: -4264804148594354450
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_93
+  - first:
+      213: 8454662761913025517
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_94
+  - first:
+      213: -3820879759933287652
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_95
+  - first:
+      213: -1595182037699508009
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_96
+  - first:
+      213: 2045534491012492126
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_97
+  - first:
+      213: 3760301325076722382
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_98
+  - first:
+      213: -5430495656626128855
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_99
+  - first:
+      213: 1780794942856350541
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_100
+  - first:
+      213: -1321335220033350127
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_101
+  - first:
+      213: 4738285428812025147
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_102
+  - first:
+      213: -5397320302027966331
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_103
+  - first:
+      213: -4187929281267633372
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_104
+  - first:
+      213: -5432012491831306724
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_105
+  - first:
+      213: 8762310477460798281
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_106
+  - first:
+      213: 2831518717662212009
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_107
+  - first:
+      213: 1811427859146876855
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_108
+  - first:
+      213: 2526253161732088536
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_109
+  - first:
+      213: -778020922708321339
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_110
+  - first:
+      213: -2457966607263030421
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_111
+  - first:
+      213: 2658383961994041628
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_112
+  - first:
+      213: -7512673922173639877
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_113
+  - first:
+      213: 4658861034772161002
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_114
+  - first:
+      213: 4978203443598726395
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_115
+  - first:
+      213: -6388423572306661684
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_116
+  - first:
+      213: 1250276188885753794
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_117
+  - first:
+      213: 4215138245025428316
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_118
+  - first:
+      213: -7071906558740071349
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_119
+  - first:
+      213: -840912739788739143
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_120
+  - first:
+      213: -104544443184680706
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_121
+  - first:
+      213: -3640990427252289140
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_122
+  - first:
+      213: -7446410855945832200
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_123
+  - first:
+      213: -1983900672592053237
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_124
+  - first:
+      213: 9047298189950953863
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_125
+  - first:
+      213: -8705523615334003177
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_126
+  - first:
+      213: -4295525485660382893
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_127
+  - first:
+      213: -3497531569338406477
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_128
+  - first:
+      213: -1936896646212480866
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_129
+  - first:
+      213: 6082687203532392556
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_130
+  - first:
+      213: 5797523580239684293
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_131
+  - first:
+      213: 1937793819363109812
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_132
+  - first:
+      213: -4514987603270049763
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_133
+  - first:
+      213: 8739907280059674546
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_134
+  - first:
+      213: -6842274101629965346
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_135
+  - first:
+      213: -8943103838636418972
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_136
+  - first:
+      213: 7184967021917816527
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_137
+  - first:
+      213: 1026066227964763354
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_138
+  - first:
+      213: -150099842708011070
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_139
+  - first:
+      213: 1075673045921025322
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_140
+  - first:
+      213: 4776182400819494332
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_141
+  - first:
+      213: -1329946721097228550
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_142
+  - first:
+      213: 5542220802971167167
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_143
+  - first:
+      213: 7571397807311915175
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_144
+  - first:
+      213: 6633750158315197778
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_145
+  - first:
+      213: -7109828290783064786
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_146
+  - first:
+      213: 237491613712300071
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_147
+  - first:
+      213: 5160890989817454756
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_148
+  - first:
+      213: -9082912049174000038
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_149
+  - first:
+      213: -905468862570244132
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_150
+  - first:
+      213: -3209058293658964481
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_151
+  - first:
+      213: -3632933802445938333
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_152
+  - first:
+      213: 6207237367687973022
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_153
+  - first:
+      213: 2287094495782919496
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_154
+  - first:
+      213: 1665538525875745794
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_155
+  - first:
+      213: 4439129303498089237
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_156
+  - first:
+      213: -8446020778608394004
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_157
+  - first:
+      213: -8868983506560330107
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_158
+  - first:
+      213: 5711137930187041582
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_159
+  - first:
+      213: 3432575083049067671
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_160
+  - first:
+      213: -205372669168462523
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_161
+  - first:
+      213: -3234583838016284571
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_162
+  - first:
+      213: 809519065423695372
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_163
+  - first:
+      213: -4748226556335055180
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_164
+  - first:
+      213: -812361947497976217
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_165
+  - first:
+      213: -4778262944356050240
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_166
+  - first:
+      213: 501749377978763707
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_167
+  - first:
+      213: -7108349387978533064
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_168
+  - first:
+      213: -6162716657095212461
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_169
+  - first:
+      213: -6467415437885850081
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_170
+  - first:
+      213: -2635336098524016308
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_171
+  - first:
+      213: -1019837479706022820
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_172
+  - first:
+      213: -7184197164373624372
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_173
+  - first:
+      213: 8322433406125243202
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_174
+  - first:
+      213: -8180255315210091782
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_175
+  - first:
+      213: -6339508506442878797
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_176
+  - first:
+      213: -948250217364631107
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_177
+  - first:
+      213: -6537242373943274117
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_178
+  - first:
+      213: 2851799815971364659
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_179
+  - first:
+      213: 7166450969387391386
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_180
+  - first:
+      213: -7106035430754914839
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_181
+  - first:
+      213: -5101638778224849764
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_182
+  - first:
+      213: -7027417281360997209
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_183
+  - first:
+      213: 2449239652950720253
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_184
+  - first:
+      213: -5408029326532370186
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_185
+  - first:
+      213: -5989471636759814167
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_186
+  - first:
+      213: -7906879093785658479
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_187
+  - first:
+      213: -2751423489313285862
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_188
+  - first:
+      213: 433967182183726422
+    second: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_189
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be0d4a354a3f47e0800000000000000
+      internalID: -1779139258782773580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f285be1acfa82a0800000000000000
+      internalID: -6734292520410796245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a44d40e03720480800000000000000
+      internalID: -8934452206701884921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2249a662ae82db0800000000000000
+      internalID: -4816342350754995543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d55f00626a95e90800000000000000
+      internalID: -7036410260634641011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e965571daa50b10800000000000000
+      internalID: 1947150230501105216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f11658758242a4d0800000000000000
+      internalID: -3124862050424712714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c2a2ff37cbc0730800000000000000
+      internalID: 3966752578194779138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9931a125abcbde0800000000000000
+      internalID: -1315972129311450626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e6e89b6d9fcaf50800000000000000
+      internalID: 6894159830228823688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe171bd1bfd0743d0800000000000000
+      internalID: -3222591636174179857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e799446aa177aa50800000000000000
+      internalID: 6532314761165117417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e260d367746584e60800000000000000
+      internalID: 7946696407421617710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28226461c2230be50800000000000000
+      internalID: 6823008600399946370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac469f1fd23f0f110800000000000000
+      internalID: 1292800471714063562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f766400805d7440800000000000000
+      internalID: 4935189277427793696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc5a054579a28c0800000000000000
+      internalID: -4023236928716025980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3a4167602da6bf0800000000000000
+      internalID: -330220697465609304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 980
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0c3515a03b9a070800000000000000
+      internalID: 8118216660207517901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e310b0183b90b30800000000000000
+      internalID: 4254128689844928029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf023d6fb9a11db10800000000000000
+      internalID: 2004412566319866107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02cdfd90b093280800000000000000
+      internalID: -9063200638068055884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339fcfceece715440800000000000000
+      internalID: 4922855294897027379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d9ff4c017e88400800000000000000
+      internalID: 326765032194940160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_24
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0158508c49d49c30800000000000000
+      internalID: 4365352861422866700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a27111b176c3aca0800000000000000
+      internalID: -6006739286377794911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_26
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d665f75dad90430800000000000000
+      internalID: 3749768775261908294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967ecb9364f8acf90800000000000000
+      internalID: -6932571144604293271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_28
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62db5d417a645f450800000000000000
+      internalID: 6121876951903092006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e547a31e26f3280800000000000000
+      internalID: -9061415205758280080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_30
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6248be46552414f0800000000000000
+      internalID: -859020576302808469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_31
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bb40ab5f5708280800000000000000
+      internalID: -9043098353511646307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_32
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f485d064fa5dd3690800000000000000
+      internalID: -7620700045669738417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_33
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea619a6811f9ff0800000000000000
+      internalID: -27283802680807732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75d2c3f7743b7e00800000000000000
+      internalID: 1043485428461786490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_35
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a06bd213c9dd0df0800000000000000
+      internalID: -212274175558328152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_36
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e361510295f4e840800000000000000
+      internalID: 5252593072856982501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_37
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 880
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d80e9e2d74b73050800000000000000
+      internalID: 5780287096499341521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce35c5a4e98d594b0800000000000000
+      internalID: -5434199200988638228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b8f8a9b21fb0a90800000000000000
+      internalID: -7346513197545845959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfaa13b0fb01a180800000000000000
+      internalID: -9105983843141505096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c438eb5a560c7960800000000000000
+      internalID: 7600957256253322440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0822bdec2546e5430800000000000000
+      internalID: 3773563844603617920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a4f8fab961b3220800000000000000
+      internalID: 2466590078836623933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22146df947ca08ab0800000000000000
+      internalID: -5007813168738189022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_45
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abe7e67b0590f470800000000000000
+      internalID: 8426398779282287522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254db05ce2cea8170800000000000000
+      internalID: 8181611358690464850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_47
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08ef6cf7237ed710800000000000000
+      internalID: 1719938723278219274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_48
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b877d89d7de81a0b0800000000000000
+      internalID: -5719132994064779381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_49
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737506700bb50b420800000000000000
+      internalID: 2643713792862607159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_50
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6942afd31b47565c0800000000000000
+      internalID: -4222840770992135018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_51
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165b76075e1e976d0800000000000000
+      internalID: -2992112101861378719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_52
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67943dfe64b9e770800000000000000
+      internalID: 8640635748874491758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_53
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1476c75183f7ba940800000000000000
+      internalID: 5308476464641632065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_54
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63c330158b99da00800000000000000
+      internalID: 781827006130275183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_55
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d51d4824a54394b0800000000000000
+      internalID: -5434923753952963116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_56
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 780
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0761a6198f2dacd10800000000000000
+      internalID: 2146760137428833904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb68149e070d99200800000000000000
+      internalID: 187410042880886462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d07b70661f88cc0800000000000000
+      internalID: -3708448872621208192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8248c836216db970800000000000000
+      internalID: 8772274465976894095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_60
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba63e66e543cc990800000000000000
+      internalID: -7364453710599853391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845f3eaedfe71e00800000000000000
+      internalID: 1015543980680500356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ae7ec644e44fde0800000000000000
+      internalID: -1300328336611349931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1187a96d0d71e680800000000000000
+      internalID: -8727557106306678500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_64
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ae058532c77f40800000000000000
+      internalID: 5726258986346259735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_65
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301683754fb2cb220800000000000000
+      internalID: 2502923821346480387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2326d17541d6e90800000000000000
+      internalID: -7030941078867791119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_67
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c45c080ffd3b790800000000000000
+      internalID: -7515417129105667025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_68
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37966936c7f6df70800000000000000
+      internalID: 9211822518571538236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_69
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cddefb279a7f100800000000000000
+      internalID: 141768223596862541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_70
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c82c2e9f8d2b060800000000000000
+      internalID: 6967870141258435638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_71
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ea5307f56d913e0800000000000000
+      internalID: -2082397647289340282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_72
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042c34c51efcd2220800000000000000
+      internalID: 2462853138064065088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_73
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ce113a7d07ef910800000000000000
+      internalID: 1873058566488845396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_74
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995bb72c30468e300800000000000000
+      internalID: 281584944021222809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_75
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5a7ee824d7e1040800000000000000
+      internalID: 4620267992547567048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa2eb891d8207180800000000000000
+      internalID: -9119744364749378902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b8be4181a4600f0800000000000000
+      internalID: -1151151187455931542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a69087f02d393a0800000000000000
+      internalID: -6659748460070606315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c677c0f33a38700800000000000000
+      internalID: 541455871402011721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_80
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2de1cfa5c1bd250800000000000000
+      internalID: 5970396908112237290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e67edd6e05efb290800000000000000
+      internalID: -7872321773484738844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_82
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9457c2cc4919d6b0800000000000000
+      internalID: -5271154071384402787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_83
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b761f17877db8080800000000000000
+      internalID: -9184010102784301134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_84
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e75888f076b36340800000000000000
+      internalID: 4855925419557804002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_85
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e892ef570f04c0800000000000000
+      internalID: -4319225409220057275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_86
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f5f4dc0eeed520800000000000000
+      internalID: 2728880163113006992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_87
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b496794ef24c3e0800000000000000
+      internalID: -2034448472825312496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_88
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d95fdde7e5a494d0800000000000000
+      internalID: -3128693425568785964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_89
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bc362c06db03f80800000000000000
+      internalID: -8128789104127915147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_90
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93672ea42b2a23d0800000000000000
+      internalID: -3230722346144275556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_91
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ef5ab60ba5f3e0800000000000000
+      internalID: -2020520812420800190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_92
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbee9b0a40a795f0800000000000000
+      internalID: -749954573050909759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_93
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6db66093f50d4c0800000000000000
+      internalID: -4264804148594354450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_94
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de38c8bbcfef45570800000000000000
+      internalID: 8454662761913025517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1352bb2a1289fac0800000000000000
+      internalID: -3820879759933287652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d846da6366ccd9e0800000000000000
+      internalID: -1595182037699508009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_97
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5beb9828c2336c10800000000000000
+      internalID: 2045534491012492126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_98
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2f0a9d1264f2430800000000000000
+      internalID: 3760301325076722382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_99
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9287f78e8f003a4b0800000000000000
+      internalID: -5430495656626128855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bc3c2c097a6b810800000000000000
+      internalID: 1780794942856350541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_101
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11613bc3e9ca9ade0800000000000000
+      internalID: -1321335220033350127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_102
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d00c43e75c1c140800000000000000
+      internalID: 4738285428812025147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_103
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5887e9218cdd815b0800000000000000
+      internalID: -5397320302027966331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_104
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423f59dd18c71e5c0800000000000000
+      internalID: -4187929281267633372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_105
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1619e03b6d9d94b0800000000000000
+      internalID: -5432012491831306724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_106
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bfbbc54faf99970800000000000000
+      internalID: 8762310477460798281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_107
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af202d85439b4720800000000000000
+      internalID: 2831518717662212009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_108
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b722b06a0c732910800000000000000
+      internalID: 1811427859146876855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_109
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2afbdaddd0f0320800000000000000
+      internalID: 2526253161732088536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_110
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb162ac71ae335f0800000000000000
+      internalID: -778020922708321339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_111
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63a050c46c83edd0800000000000000
+      internalID: -2457966607263030421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_112
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c191043f02a74e420800000000000000
+      internalID: 2658383961994041628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_113
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33ef732fde9db790800000000000000
+      internalID: -7512673922173639877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e08b6d6997a040800000000000000
+      internalID: 4658861034772161002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_115
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4145308a1261540800000000000000
+      internalID: 4978203443598726395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceede9bb92c757a0800000000000000
+      internalID: -6388423572306661684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_117
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf1aadc19fd95110800000000000000
+      internalID: 1250276188885753794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_118
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5377eda6ed2f7a30800000000000000
+      internalID: 4215138245025428316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_119
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cfa81147a8bdd90800000000000000
+      internalID: -7071906558740071349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_120
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdaac9815a7454f0800000000000000
+      internalID: -840912739788739143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_121
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef07cb002659c8ef0800000000000000
+      internalID: -104544443184680706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_122
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8197094f7a987dc0800000000000000
+      internalID: -3640990427252289140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_123
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f87cbf77c809a890800000000000000
+      internalID: -7446410855945832200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_124
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cfd7479d4c774e0800000000000000
+      internalID: -1983900672592053237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_125
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789af05e4c57e8d70800000000000000
+      internalID: 9047298189950953863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_126
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e0e3c4564cf2780800000000000000
+      internalID: -8705523615334003177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_127
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3595397545a3364c0800000000000000
+      internalID: -4295525485660382893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_128
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9aed28195467fc0800000000000000
+      internalID: -3497531569338406477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_129
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e901cdb23c2ce15e0800000000000000
+      internalID: -1936896646212480866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_130
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68cc5eb8cb0a6450800000000000000
+      internalID: 6082687203532392556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_131
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c22329caf0f47050800000000000000
+      internalID: 5797523580239684293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_132
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbe51b363d64ea10800000000000000
+      internalID: 1937793819363109812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10ebcd32ba8751c0800000000000000
+      internalID: -4514987603270049763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_134
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfaecd7d536a4970800000000000000
+      internalID: 8739907280059674546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbad7cd4fb5b01a0800000000000000
+      internalID: -6842274101629965346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_136
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468d4acf076b3e380800000000000000
+      internalID: -8943103838636418972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ce48507126b360800000000000000
+      internalID: 7184967021917816527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_138
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc5dd94cc15d3e00800000000000000
+      internalID: 1026066227964763354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_139
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70c820dfcbaedf0800000000000000
+      internalID: -150099842708011070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_140
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc594afee8dee00800000000000000
+      internalID: 1075673045921025322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_141
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd71579698684240800000000000000
+      internalID: 4776182400819494332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_142
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeddc6e0841b8de0800000000000000
+      internalID: -1329946721097228550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_143
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb960e3d47ce9ec40800000000000000
+      internalID: 5542220802971167167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_144
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a88ff5d032031960800000000000000
+      internalID: 7571397807311915175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_145
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25591133f90df0c50800000000000000
+      internalID: 6633750158315197778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_146
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d4ad9c6d0d45d90800000000000000
+      internalID: -7109828290783064786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_147
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728b4784d5dbb4300800000000000000
+      internalID: 237491613712300071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_148
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0659cf20b2f9740800000000000000
+      internalID: 5160890989817454756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_149
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e4ed65d9303f180800000000000000
+      internalID: -9082912049174000038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_150
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d25bedd02f63f0800000000000000
+      internalID: -905468862570244132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_151
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdafe6fb722773d0800000000000000
+      internalID: -3209058293658964481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36163bc64f9359dc0800000000000000
+      internalID: -3632933802445938333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_153
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e988291af79842650800000000000000
+      internalID: 6207237367687973022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_154
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d54ec83546dbf10800000000000000
+      internalID: 2287094495782919496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_155
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2043d82077e2d1710800000000000000
+      internalID: 1665538525875745794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_156
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513e70ff494fa9d30800000000000000
+      internalID: 4439129303498089237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_157
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce08a7dc9d4b9ca80800000000000000
+      internalID: -8446020778608394004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_158
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5865cac9d7a0be480800000000000000
+      internalID: -8868983506560330107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_159
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bee0840b9024f40800000000000000
+      internalID: 5711137930187041582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_160
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7942ff9f9d4f2af20800000000000000
+      internalID: 3432575083049067671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_161
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545d3af35ae562df0800000000000000
+      internalID: -205372669168462523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_162
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d1da03237c13d0800000000000000
+      internalID: -3234583838016284571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_163
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e4c7d0d4dfb3b00800000000000000
+      internalID: 809519065423695372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_164
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be929caa19ea1eb0800000000000000
+      internalID: -4748226556335055180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_165
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ea652ec19e9b4f0800000000000000
+      internalID: -812361947497976217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_166
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cade3e1b2330bdb0800000000000000
+      internalID: -4778262944356050240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_167
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb982b0a66296f600800000000000000
+      internalID: 501749377978763707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_168
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379c2ea4e11a5d90800000000000000
+      internalID: -7108349387978533064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_169
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35205721ad1a97aa0800000000000000
+      internalID: -6162716657095212461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_170
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ebfe1dcef1f36a0800000000000000
+      internalID: -6467415437885850081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4156bfe7c76d6bd0800000000000000
+      internalID: -2635336098524016308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_172
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c2e7d273fc8d1f0800000000000000
+      internalID: -1019837479706022820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_173
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc934251eba9c4c90800000000000000
+      internalID: -7184197164373624372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_174
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b70f6b6193f7370800000000000000
+      internalID: 8322433406125243202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_175
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2c6e4b125e97e80800000000000000
+      internalID: -8180255315210091782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_176
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0b7eef99a8508a0800000000000000
+      internalID: -6339508506442878797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_177
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db15bcb837327d2f0800000000000000
+      internalID: -948250217364631107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_178
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75da7a52bc0745a0800000000000000
+      internalID: -6537242373943274117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_179
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f5f79b2d0a39720800000000000000
+      internalID: 2851799815971364659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_180
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99d69aef29547360800000000000000
+      internalID: 7166450969387391386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_181
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed6384dc6a426d90800000000000000
+      internalID: -7106035430754914839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_182
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ccc839f865339b0800000000000000
+      internalID: -5101638778224849764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_183
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a459082739997e90800000000000000
+      internalID: -7027417281360997209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_184
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfebdebdc727df120800000000000000
+      internalID: 2449239652950720253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_185
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0a4210bf1d2f4b0800000000000000
+      internalID: -5408029326532370186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_186
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef57aaa74f11eca0800000000000000
+      internalID: -5989471636759814167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_187
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b71fc4b5f154290800000000000000
+      internalID: -7906879093785658479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_188
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19d0d40aeaf0d9d0800000000000000
+      internalID: -2751423489313285862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2885651_1920x1080-dark-forest-fog-trees-animated-background-animated_189
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dfc3a5ad2c50600800000000000000
+      internalID: 433967182183726422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
